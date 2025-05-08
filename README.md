@@ -1,6 +1,3 @@
-# UNIECO
-this is a shortened privacy version of the project done by me and two of my other colleagues during the three-year university course. A project aimed at increasing awareness about eco-sustainable practices in university or work facilities.
-
 # UNIECO – Sustainable Behavior Monitoring App
 This is a **shortened public version** of a project developed by me and two colleagues during our three-year university degree.  
 The goal of the project is to **raise awareness of eco-sustainable practices** within university or workplace environments, by promoting responsible behaviors and monitoring energy and resource usage through a mobile application.
